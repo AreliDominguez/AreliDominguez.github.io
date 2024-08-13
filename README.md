@@ -1,2 +1,2 @@
 # AreliDominguez.github.io
-Portafolio de Areli Dominguez de Oca Realizado en Tecnolochicas Pro.
+Portafolio de Areli Abigail Dominguez Barreto Realizado en Tecnolochicas Pro.
