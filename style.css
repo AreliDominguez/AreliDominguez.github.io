@@ -1,0 +1,32 @@
+*{
+    font-family: "Outfit", sans-serif;
+}
+header{
+    background-color: #FF9494;
+}
+header span{
+    color: white;
+}
+.nav-item a{
+    color: white;
+}
+.nav-item a:hover{
+    color: #FFD1D1;
+}
+/* Link visitado*/
+.nav-item a:visited{
+    color: white;
+}
+#nav-butoon{
+    background-color: #FFD1D1;
+}
+.bi{
+    color: #FF9494;
+}
+
+.img-proyecto1{
+    background-image: url(assests/Clon_Pinterest.png);
+    opacity: 0.6;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
